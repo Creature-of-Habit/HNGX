@@ -13,8 +13,8 @@ def api():
         "current_day":now.strftime('%A'),
         "utc_time":utcnow,
         "track":"backend",
-        "github_file_url":"",
-        "github_repo_url":"",
+        "github_file_url":"https://github.com/Creature-of-Habit/HNGX/blob/main/Stage%20one%20task/api.py",
+        "github_repo_url":"https://github.com/Creature-of-Habit/HNGX.git",
         "status_code": 200
     }
     
